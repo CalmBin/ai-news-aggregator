@@ -8362,5 +8362,21 @@
   "Sc-im: Spreadsheets in your terminal": "Sc-im：终端中的电子表格",
   "More Americans Are Breaking into the Upper Middle Class": "更多美国人跻身中上阶层",
   "Book review: There is no antimemetics division": "书评：不存在逆模因划分",
-  "Joins Are Not Expensive": "加盟并不昂贵"
+  "Joins Are Not Expensive": "加盟并不昂贵",
+  "Agent Reading Test": "代理阅读测试",
+  "Google quietly releases an offline-first AI dictation app on iOS": "谷歌悄然在 iOS 上发布了一款离线优先的人工智能听写应用",
+  "Anthropic Accidentally Leaked the Entire Claude Code CLI Source Code": "Anthropic 意外泄露了整个 Claude 代码 CLI 源代码",
+  "Startup CEO says he's proud his 4-person team racked up a $113,000 monthly AI bill": "初创公司首席执行官表示，他为自己的 4 人团队每月支付 113,000 美元的人工智能账单感到自豪",
+  "AI agents over SSH from your phone. Starting to think this is where dev is going": "通过手机上的 SSH 进行 AI 代理。开始认为这就是开发的方向",
+  "Wikipedia's AI agent row likely just the beginning of the bot-ocalypse": "维基百科的人工智能代理之争可能只是机器人灾难的开始",
+  "Gemma 4 on Ollama's cloud runs on the latest @nvidia Blackwell GPUs. \r\n\r\nhttps://t.co/WD3DDuxEhx": "Ollama 云上的 Gemma 4 在最新的 @nvidia Blackwell GPU 上运行。 \r\n\r\nhttps://t.co/WD3DDuxEhx",
+  "Ollama's cloud is now the best place to run Gemma 4 in the cloud! \r\n\r\nAvailable through a subscription...": "Ollama 的云现在是在云中运行 Gemma 4 的最佳位置！ \r\n\r\n通过订阅即可获得...",
+  "Introducing Cost Alerting in LangSmith 💸\r\n\r\nMore and more agents are making it to production, and cos...": "LangSmith 中引入成本警报 💸\r\n\r\n越来越多的代理商正在将其投入生产，并...",
+  "Read about our work on warp decode: https://t.co/YFIcFPkvku": "了解我们在扭曲解码方面的工作：https://t.co/YFIcFPkvku",
+  "We rebuilt how MoE models generate tokens on Blackwell GPUs, resulting in 1.84x faster inference and...": "我们重建了 MoE 模型在 Blackwell GPU 上生成令牌的方式，从而将推理速度提高了 1.84 倍……",
+  "In the latest Research Focus: LLM sentiment in cultural context, robot assembly learning, smarter AI...": "最新的研究焦点：文化背景下的法学硕士情绪、机器人组装学习、更智能的人工智能……",
+  "Londoners are sick of viral videos telling lies about their city": "伦敦人厌倦了有关他们城市的谎言的病毒视频",
+  "Got kicked out of uni and had the cops called for a social media website I made": "被大学开除，警察要求我建立一个社交媒体网站",
+  "Smart people recognize each other – science proves it": "聪明的人能够认出彼此——科学证明了这一点",
+  "Meta hopes SCOTUS piracy ruling will help it beat lawsuit over torrenting AI data": "Meta 希望 SCOTUS 盗版裁决将帮助其击败有关洪流人工智能数据的诉讼"
 }
